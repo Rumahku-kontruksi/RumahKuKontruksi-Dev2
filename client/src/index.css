@@ -1,7 +1,4 @@
 /* Tailwind v4 */
-@import "tailwindcss/preflight";
-/* menggantikan @tailwind base */
-@tailwind utilities;
-/* tetap untuk semua utilities */
+@import "tailwindcss";
 
 /* opsional: DaisyUI akan otomatis ikut karena plugin */
