@@ -1,3 +1,4 @@
+// client/src/components/navbar/Logo.tsx
 import { Link } from "react-router-dom";
 
 const Logo = () => {

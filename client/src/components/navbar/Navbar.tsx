@@ -1,3 +1,4 @@
+// client/src/components/navbar/Navbar.tsx
 import { useState } from "react";
 import { TbLogin2 } from "react-icons/tb";
 import { HiMenuAlt3, HiX } from "react-icons/hi";

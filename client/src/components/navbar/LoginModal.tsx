@@ -1,3 +1,4 @@
+// client/src/components/navbar/LoginModal.tsx
 type TLoginModalProps = {
   isOpen: boolean;
   onClose: () => void;

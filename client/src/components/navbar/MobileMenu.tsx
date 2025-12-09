@@ -1,3 +1,4 @@
+// client/src/components/navbar/MobileMenu.tsx
 import { NavLink } from "react-router-dom";
 
 type TMobileMenuProps = {
